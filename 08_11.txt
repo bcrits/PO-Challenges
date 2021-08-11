@@ -1,0 +1,2 @@
+Logical Reasoning:
+The correct answer is (b). Only Statement II is sufficient information to answer the question. If the third Saturday of the month is the 17th, then you can count backwards from that date and deduce that Tuesday is the 14th of the month. With Statement I, if Wednesday is the last day of a given month then you can't answer the question because you don't know how many days are in the given month.
